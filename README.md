@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Harun</h1>
 <h3 align="center">Husband, Father, and Automation Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MhmtHrn&label=Profile%20views&color=0e75b6&style=flat" alt="MhmtHrn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="MhmtHrn" alt="MhmtHrn" /></a> </p>
 

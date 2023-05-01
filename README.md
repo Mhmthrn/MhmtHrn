@@ -34,12 +34,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="100"/> 
    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> </a> 
   
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="100" height="100"/> 
+  <img src="https://w7.pngwing.com/pngs/782/363/png-transparent-appium-hd-logo.png" alt="oracle" width="100" height="100"/> 
+   <a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer"> </a> 
   
-  img src=https://w7.pngwing.com/pngs/782/363/png-transparent-appium-hd-logo.png" alt="mysql" width="100" height="100"/>
- <a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer">  </a>  </p>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="100" height="100"/> </p>
   
+ 
   
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MhmtHrn&show_icons=true&locale=en&layout=compact" alt="Mehmet Harun" /></p>
 

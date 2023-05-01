@@ -36,7 +36,7 @@
   
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="100" height="100"/> 
   
-  img src="http://appium.io/docs/en/2.0/assets/images/appium-logo-horiz.png" alt="mysql" width="100" height="100"/>
+  img src=https://w7.pngwing.com/pngs/782/363/png-transparent-appium-hd-logo.png" alt="mysql" width="100" height="100"/>
  <a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer">  </a>  </p>
   
   

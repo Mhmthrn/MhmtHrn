@@ -37,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="90" height="90"/>
   
   <img src="https://appium.io/docs/en/2.0/assets/images/appium-logo-white.png" alt="appium" width="90" height="90"/> 
-   <a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer"> </a> </p>
+   <a href="http://appium.io" target="_blank" rel="noreferrer"> </a> </p>
   
  
   

@@ -16,27 +16,27 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="90"/>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </a>
   
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="90" height="90"/> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> </a>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="90"/> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> </a>   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </a>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="90"/>
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">  </a> 
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="90" height="90"/> 
    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> </a> 
   
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="90" height="90"/>
   
-  <img src="https://appium.io/docs/en/2.0/assets/images/appium-logo-white.png" alt="appium" width="100" height="100"/> 
+  <img src="https://appium.io/docs/en/2.0/assets/images/appium-logo-white.png" alt="appium" width="90" height="90"/> 
    <a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer"> </a> </p>
   
  

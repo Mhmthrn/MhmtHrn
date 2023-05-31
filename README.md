@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mehmet Harun</h1>
 <h3 align="center">Husband, Father, and Automation Engineer</h3>
 
-- 🌱 I’m currently learning **Appium**
 
-- 💬 Ask me about **Core Java/OOP Consept/SQL/HTML/Selenium-JUnit-TestNG-Cucumbar-API-Behavior-driven Development (BDD)**
+- 💬 Ask me about **Core Java/OOP Consept/SQL/HTML/Selenium-JUnit-TestNG-Cucumbar-API-Behavior-driven Development (BDD)-Appium**
 
 - ⚡ Fun fact **Bring happiness around me ;)**
 

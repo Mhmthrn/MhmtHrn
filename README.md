@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Harun</h1>
 <h3 align="center">Husband, Father, and Automation Engineer</h3>
 
-![mhmthrn snake gif](https://github.com/Mhmthrn/Mhmethrn/blob/output/github-contribution-grid-snake.svg)
 
 
 - 💬 Ask me about **Core Java/OOP Consept/SQL/HTML/Selenium-JUnit-TestNG-Cucumbar-API-Behavior-driven Development (BDD)-Appium**
